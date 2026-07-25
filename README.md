@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/sivakumar-void/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/sivakumar-void/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sivakumar-void/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivakumar-void/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/sivakumar-void/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sivakumar-void/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/sivakumar-void/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
