@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/sivakumar-void/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sivakumar-void/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/sivakumar-void/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sivakumar-void/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivakumar-void/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sivakumar-void/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
