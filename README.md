@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sivakumar-void/leetcode/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/sivakumar-void/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1732-find-the-highest-altitude](https://github.com/sivakumar-void/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sivakumar-void/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -50,5 +51,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sivakumar-void/leetcode/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/sivakumar-void/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sivakumar-void/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
