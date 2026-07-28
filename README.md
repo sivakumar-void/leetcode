@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sivakumar-void/leetcode/tree/master/0029-divide-two-integers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/sivakumar-void/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sivakumar-void/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/sivakumar-void/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String Matching
