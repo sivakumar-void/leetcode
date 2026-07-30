@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/sivakumar-void/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sivakumar-void/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2678-number-of-senior-citizens](https://github.com/sivakumar-void/leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/sivakumar-void/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
