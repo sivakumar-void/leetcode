@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/sivakumar-void/leetcode/tree/master/2325-decode-the-message) |
 | [2678-number-of-senior-citizens](https://github.com/sivakumar-void/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/sivakumar-void/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sivakumar-void/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sivakumar-void/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3856-trim-trailing-vowels](https://github.com/sivakumar-void/leetcode/tree/master/3856-trim-trailing-vowels) |
 ## Sliding Window
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/sivakumar-void/leetcode/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/sivakumar-void/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [3498-reverse-degree-of-a-string](https://github.com/sivakumar-void/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
