@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sivakumar-void/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/sivakumar-void/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sivakumar-void/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3151-special-array-i](https://github.com/sivakumar-void/leetcode/tree/master/3151-special-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sivakumar-void/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sivakumar-void/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/sivakumar-void/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
