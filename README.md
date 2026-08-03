@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sivakumar-void/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sivakumar-void/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/sivakumar-void/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sivakumar-void/leetcode/tree/master/0049-group-anagrams) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sivakumar-void/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sivakumar-void/leetcode/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sivakumar-void/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sivakumar-void/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sivakumar-void/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sivakumar-void/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
