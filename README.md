@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sivakumar-void/leetcode/tree/master/0682-baseball-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sivakumar-void/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/sivakumar-void/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sivakumar-void/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/sivakumar-void/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sivakumar-void/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sivakumar-void/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sivakumar-void/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sivakumar-void/leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/sivakumar-void/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sivakumar-void/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2325-decode-the-message](https://github.com/sivakumar-void/leetcode/tree/master/2325-decode-the-message) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sivakumar-void/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/sivakumar-void/leetcode/tree/master/3731-find-missing-elements) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sivakumar-void/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sivakumar-void/leetcode/tree/master/0049-group-anagrams) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sivakumar-void/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sivakumar-void/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sivakumar-void/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/sivakumar-void/leetcode/tree/master/3536-maximum-product-of-two-digits) |
