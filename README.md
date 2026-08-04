@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/sivakumar-void/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/sivakumar-void/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sivakumar-void/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/sivakumar-void/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sivakumar-void/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3856-trim-trailing-vowels](https://github.com/sivakumar-void/leetcode/tree/master/3856-trim-trailing-vowels) |
 ## Sliding Window
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sivakumar-void/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sivakumar-void/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/sivakumar-void/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/sivakumar-void/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String Matching
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sivakumar-void/leetcode/tree/master/0029-divide-two-integers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sivakumar-void/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sivakumar-void/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/sivakumar-void/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/sivakumar-void/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sivakumar-void/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sivakumar-void/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/sivakumar-void/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Queue
 |  |
 | ------- |
