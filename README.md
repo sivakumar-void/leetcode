@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sivakumar-void/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/sivakumar-void/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sivakumar-void/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sivakumar-void/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sivakumar-void/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3151-special-array-i](https://github.com/sivakumar-void/leetcode/tree/master/3151-special-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sivakumar-void/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sivakumar-void/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2325-decode-the-message](https://github.com/sivakumar-void/leetcode/tree/master/2325-decode-the-message) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sivakumar-void/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sivakumar-void/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3731-find-missing-elements](https://github.com/sivakumar-void/leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sivakumar-void/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sivakumar-void/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sivakumar-void/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
