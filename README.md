@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sivakumar-void/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sivakumar-void/leetcode/tree/master/0029-divide-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sivakumar-void/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/sivakumar-void/leetcode/tree/master/1323-maximum-69-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/sivakumar-void/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sivakumar-void/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sivakumar-void/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sivakumar-void/leetcode/tree/master/0011-container-with-most-water) |
+| [1323-maximum-69-number](https://github.com/sivakumar-void/leetcode/tree/master/1323-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
