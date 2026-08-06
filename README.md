@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sivakumar-void/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sivakumar-void/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/sivakumar-void/leetcode/tree/master/2325-decode-the-message) |
+| [2390-removing-stars-from-a-string](https://github.com/sivakumar-void/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/sivakumar-void/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/sivakumar-void/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3340-check-balanced-string](https://github.com/sivakumar-void/leetcode/tree/master/3340-check-balanced-string) |
@@ -126,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/sivakumar-void/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sivakumar-void/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sivakumar-void/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2390-removing-stars-from-a-string](https://github.com/sivakumar-void/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sivakumar-void/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sivakumar-void/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sivakumar-void/leetcode/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/sivakumar-void/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
