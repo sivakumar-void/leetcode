@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sivakumar-void/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sivakumar-void/leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/sivakumar-void/leetcode/tree/master/0867-transpose-matrix) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sivakumar-void/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sivakumar-void/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/sivakumar-void/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sivakumar-void/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sivakumar-void/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sivakumar-void/leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/sivakumar-void/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sivakumar-void/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sivakumar-void/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sivakumar-void/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sivakumar-void/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sivakumar-void/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sivakumar-void/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
