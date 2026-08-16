@@ -4,7 +4,7 @@ class Solution:
         if rowIndex<2:
             return pascal[rowIndex]
         else:
-            for i in range(rowIndex-1):
+            for i in range(rowIndex+1):
                 temp=pascal[len(pascal)-1]
                 temp2=[1,1]
                 for j in range(len(temp)-1):
