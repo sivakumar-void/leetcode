@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sivakumar-void/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/sivakumar-void/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/sivakumar-void/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1844-replace-all-digits-with-characters](https://github.com/sivakumar-void/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sivakumar-void/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sivakumar-void/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sivakumar-void/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
