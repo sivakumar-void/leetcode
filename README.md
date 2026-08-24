@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sivakumar-void/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sivakumar-void/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sivakumar-void/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sivakumar-void/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/sivakumar-void/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sivakumar-void/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/sivakumar-void/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sivakumar-void/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sivakumar-void/leetcode/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/sivakumar-void/leetcode/tree/master/0164-maximum-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sivakumar-void/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sivakumar-void/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sivakumar-void/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/sivakumar-void/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sivakumar-void/leetcode/tree/master/0029-divide-two-integers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sivakumar-void/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sivakumar-void/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sivakumar-void/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/sivakumar-void/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sivakumar-void/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sivakumar-void/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sivakumar-void/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sivakumar-void/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Heap (Priority Queue)
