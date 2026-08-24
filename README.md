@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sivakumar-void/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sivakumar-void/leetcode/tree/master/0029-divide-two-integers) |
+| [0172-factorial-trailing-zeroes](https://github.com/sivakumar-void/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/sivakumar-void/leetcode/tree/master/0509-fibonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sivakumar-void/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sivakumar-void/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
