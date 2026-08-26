@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sivakumar-void/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sivakumar-void/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sivakumar-void/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sivakumar-void/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sivakumar-void/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sivakumar-void/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2325-decode-the-message](https://github.com/sivakumar-void/leetcode/tree/master/2325-decode-the-message) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/sivakumar-void/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1844-replace-all-digits-with-characters](https://github.com/sivakumar-void/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/sivakumar-void/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sivakumar-void/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sivakumar-void/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sivakumar-void/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/sivakumar-void/leetcode/tree/master/2325-decode-the-message) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sivakumar-void/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sivakumar-void/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sivakumar-void/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sivakumar-void/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sivakumar-void/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Heap (Priority Queue)
