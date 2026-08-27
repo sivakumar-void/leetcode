@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/sivakumar-void/leetcode/tree/master/1323-maximum-69-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/sivakumar-void/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/sivakumar-void/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1837-sum-of-digits-in-base-k](https://github.com/sivakumar-void/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sivakumar-void/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sivakumar-void/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sivakumar-void/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
