@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sivakumar-void/leetcode/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/sivakumar-void/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/sivakumar-void/leetcode/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/sivakumar-void/leetcode/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sivakumar-void/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sivakumar-void/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sivakumar-void/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
