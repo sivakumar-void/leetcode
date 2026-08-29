@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3856-trim-trailing-vowels](https://github.com/sivakumar-void/leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/sivakumar-void/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3941-password-strength](https://github.com/sivakumar-void/leetcode/tree/master/3941-password-strength) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/sivakumar-void/leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sivakumar-void/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/sivakumar-void/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/sivakumar-void/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/sivakumar-void/leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## String Matching
 |  |
 | ------- |
