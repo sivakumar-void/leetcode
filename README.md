@@ -292,9 +292,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/sivakumar-void/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sivakumar-void/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/sivakumar-void/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sivakumar-void/leetcode/tree/master/2236-root-equals-sum-of-children) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/sivakumar-void/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
