@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sivakumar-void/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sivakumar-void/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/sivakumar-void/leetcode/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/sivakumar-void/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -298,12 +299,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sivakumar-void/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivakumar-void/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sivakumar-void/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sivakumar-void/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sivakumar-void/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivakumar-void/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sivakumar-void/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sivakumar-void/leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sivakumar-void/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivakumar-void/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
