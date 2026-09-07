@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sivakumar-void/leetcode/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/sivakumar-void/leetcode/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sivakumar-void/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/sivakumar-void/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sivakumar-void/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sivakumar-void/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sivakumar-void/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/sivakumar-void/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sivakumar-void/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/sivakumar-void/leetcode/tree/master/0965-univalued-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/sivakumar-void/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/sivakumar-void/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/sivakumar-void/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sivakumar-void/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/sivakumar-void/leetcode/tree/master/0965-univalued-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/sivakumar-void/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/sivakumar-void/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivakumar-void/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sivakumar-void/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sivakumar-void/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/sivakumar-void/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivakumar-void/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/sivakumar-void/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/sivakumar-void/leetcode/tree/master/0965-univalued-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/sivakumar-void/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
