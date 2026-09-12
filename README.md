@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sivakumar-void/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/sivakumar-void/leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/sivakumar-void/leetcode/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/sivakumar-void/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sivakumar-void/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sivakumar-void/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sivakumar-void/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sivakumar-void/leetcode/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/sivakumar-void/leetcode/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sivakumar-void/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/sivakumar-void/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sivakumar-void/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sivakumar-void/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sivakumar-void/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sivakumar-void/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sivakumar-void/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/sivakumar-void/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/sivakumar-void/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sivakumar-void/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/sivakumar-void/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sivakumar-void/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
