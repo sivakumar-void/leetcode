@@ -402,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sivakumar-void/leetcode/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/sivakumar-void/leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
