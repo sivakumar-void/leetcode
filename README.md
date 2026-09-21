@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/sivakumar-void/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sivakumar-void/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/sivakumar-void/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/sivakumar-void/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sivakumar-void/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sivakumar-void/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sivakumar-void/leetcode/tree/master/0704-binary-search) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sivakumar-void/leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/sivakumar-void/leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/sivakumar-void/leetcode/tree/master/0164-maximum-gap) |
+| [0561-array-partition](https://github.com/sivakumar-void/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sivakumar-void/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sivakumar-void/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sivakumar-void/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sivakumar-void/leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/sivakumar-void/leetcode/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/sivakumar-void/leetcode/tree/master/1323-maximum-69-number) |
 ## Dynamic Programming
 |  |
@@ -442,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sivakumar-void/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sivakumar-void/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
