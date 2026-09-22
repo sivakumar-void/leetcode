@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sivakumar-void/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/sivakumar-void/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/sivakumar-void/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/sivakumar-void/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sivakumar-void/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/sivakumar-void/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sivakumar-void/leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sivakumar-void/leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/sivakumar-void/leetcode/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/sivakumar-void/leetcode/tree/master/1323-maximum-69-number) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/sivakumar-void/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Dynamic Programming
 |  |
 | ------- |
