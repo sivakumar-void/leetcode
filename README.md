@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sivakumar-void/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/sivakumar-void/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sivakumar-void/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/sivakumar-void/leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/sivakumar-void/leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## String Matching
 |  |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sivakumar-void/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sivakumar-void/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/sivakumar-void/leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Segment Tree
 |  |
 | ------- |
